@@ -136,7 +136,10 @@ input[type='checkbox'] {
     flex-direction: column;
     padding: 1.6rem 0;
   }
-
+  h1 {
+    font-size: 4rem;
+    padding: 1.6rem 0;
+  }
   .add-form > * {
     margin-bottom: 1.2rem;
   }
